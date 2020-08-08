@@ -28,7 +28,7 @@ What can MediChain do for you in today's world?
 
 ### HOME
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/home.png" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/home.png" alt="Azzy's MediChain banner" align="center" />
 
 ### SIGNUP
 
