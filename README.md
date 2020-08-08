@@ -32,10 +32,10 @@ What can MediChain do for you in today's world?
 
 ### SIGNUP
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/login.png" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/login.png" alt="Azzy's MediChain banner" align="center" />
 
 ### LOG IN
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/signup.png" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/signup.png" alt="Azzy's MediChain banner" align="center" />
 
 
 
@@ -43,45 +43,45 @@ What can MediChain do for you in today's world?
 
 <br />
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/How_it_works-pt1.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/How_it_works-pt1.JPG" alt="Azzy's MediChain banner" align="center" />
 
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/How_it_works-pt2.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/How_it_works-pt2.JPG" alt="Azzy's MediChain banner" align="center" />
 
 ### Doctor
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/Doctor-Dashboard.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Doctor-Dashboard.JPG" alt="Azzy's MediChain banner" align="center" />
 
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/Doctor-create presccription.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Doctor-create presccription.JPG" alt="Azzy's MediChain banner" align="center" />
 
 
-<img src="/Doctor-Edit_Prescription.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Doctor-Edit_Prescription.JPG" alt="Azzy's MediChain banner" align="center" />
 
 
-<img src="/Doctor-medical records.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Doctor-medical records.JPG" alt="Azzy's MediChain banner" align="center" />
 
 
-<img src="/Doctor-medical_records_of_selected_patient.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Doctor-medical_records_of_selected_patient.JPG" alt="Azzy's MediChain banner" align="center" />
 
 
-<img src="/Doctor-PatientList.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Doctor-PatientList.JPG" alt="Azzy's MediChain banner" align="center" />
 
 
-<img src="/Doctor-prescription of selected record.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Doctor-prescription of selected record.JPG" alt="Azzy's MediChain banner" align="center" />
 
 
 ### PATIENTS
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/Patient-Dashboard.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Patient-Dashboard.JPG" alt="Azzy's MediChain banner" align="center" />
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/Patient-HospitalList.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Patient-HospitalList.JPG" alt="Azzy's MediChain banner" align="center" />
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/Patient-MedicalRecord.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Patient-MedicalRecord.JPG" alt="Azzy's MediChain banner" align="center" />
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/Patient-Update Personal Info.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/Patient-Update Personal Info.JPG" alt="Azzy's MediChain banner" align="center" />
 
-<img src="https://github.com/AzharMithani/MediChain/tree/master/public/images/readme/wallet.JPG" alt="Azzy's MediChain banner" align="center" />
+<img src="https://github.com/AzharMithani/MediChain/blob/master/public/images/readme/wallet.JPG" alt="Azzy's MediChain banner" align="center" />
 
 
 <br />
